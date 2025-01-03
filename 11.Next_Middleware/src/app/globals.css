@@ -1,0 +1,28 @@
+
+.formContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.formSection{
+  border: 1px solid gray;
+  background: lightgray;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+}
+.formSection h3, input{
+  width: 80%;
+  height: 1.5rem;
+  font-size: 1.2rem;
+}
+.formSection button{
+  background: rgb(45, 45, 187);
+  padding: 10px 30px;
+  color:white;
+}

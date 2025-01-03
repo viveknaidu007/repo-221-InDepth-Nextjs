@@ -1,0 +1,11 @@
+
+.laptops{
+    background-color: blueviolet;
+    height: 80vh;
+    border: 1px solid transparent;
+}
+
+.discount{
+    background-color: orange;
+    border: 1px solid transparent;
+}
